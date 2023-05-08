@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zili KOU is currently a PhD candidate in the Electronic and Computer Engineering department at the Hong Kong University of Science and Technology (HKUST), supervised by Prof. Wei ZHANG. He received his B.S. degree from Southeast University, Nanjing, China, in 2019. His research interests include micro-architectural security, hardware-enhanced security, and privacy computing. He has won the best paper award in ICCAD 2022.
+Zili KOU (寇梓黎) is currently a PhD candidate in the Electronic and Computer Engineering department at the Hong Kong University of Science and Technology (HKUST), supervised by Prof. Wei ZHANG. He received his B.S. degree from Southeast University, Nanjing, China, in 2019. His research interests include micro-architectural security, hardware-enhanced security, and privacy computing. He has won the best paper award in ICCAD 2022.
 
 News
 ======
