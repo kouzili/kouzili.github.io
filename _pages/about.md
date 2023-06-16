@@ -12,8 +12,9 @@ Zili KOU (寇梓黎) is currently a PhD candidate in the Electronic and Computer
 
 News
 ======
+* June 2023: I receive the HKUST RedBird Academic Excellence Award in 2022-23.
 * Mar. 2023: One co-authored work "Tensor-Product-Based Accelerator for Area-efficient and Scalable Number Theoretic Transform" is accepted by FCCM 2023.
 * Nov. 2022: Our work "Cache Side-channel Attacks and Defenses of the Sliding Window Algorithm in TEEs" is accepted by DATE 2023.
 * Oct. 2022: Our work "Attack Directories on ARM big.LITTLE Processors" wins the best paper award at ICCAD 2022.
-* May 2022: I receive the HKUST RedBird Academic Excellence Award.
-* Feb. 2021: Our work "Load-Step: A Precise TrustZone Execution Control Framework for Exploring New Side-channel Attacks Like Flush+Evict" is accepted by DAC 2021.
+* May 2022: I receive the HKUST RedBird Academic Excellence Award in 2021-22.
+<!-- * Feb. 2021: Our work "Load-Step: A Precise TrustZone Execution Control Framework for Exploring New Side-channel Attacks Like Flush+Evict" is accepted by DAC 2021. -->
